@@ -10,7 +10,5 @@ members:
   - David
   - George
   - 33333333
-<<<<<<< HEAD
-=======
   - Stash
->>>>>>> new-teams
+  - Stash 한다음에 Add
